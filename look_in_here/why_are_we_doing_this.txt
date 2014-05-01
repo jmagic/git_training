@@ -1,0 +1,9 @@
+I'm about to call it quits on git.
+
+I think it's great but I don't know if we need it for our builds.
+
+I don't want to try to teach this to everyone, if we as a group haven't decided 
+that we absolutely need a versioning system.
+
+What are your thoughts?
+
